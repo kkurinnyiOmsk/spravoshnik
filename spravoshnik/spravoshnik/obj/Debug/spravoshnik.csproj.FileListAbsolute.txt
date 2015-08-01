@@ -1,1 +1,14 @@
 C:\Users\konstantin\Documents\Visual Studio 2012\Projects\spravoshnik\spravoshnik\bin\Debug\spravoshnik.exe.config
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\bin\Debug\spravoshnik.exe.config
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\bin\Debug\spravoshnik.exe
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\bin\Debug\spravoshnik.pdb
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.csprojResolveAssemblyReference.cache
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\MainWindow.baml
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\MainWindow.g.cs
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\App.g.cs
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik_MarkupCompile.cache
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.g.resources
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.Properties.Resources.resources
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.csproj.GenerateResource.Cache
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.exe
+D:\spravoshnik\spravoshnik\spravoshnik\spravoshnik\obj\Debug\spravoshnik.pdb

@@ -3,6 +3,19 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="163*"/>
+            <ColumnDefinition Width="219*"/>
+            <ColumnDefinition Width="135*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="257*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Введите данные для поиска"></TextBlock>
+        <TextBox x:Name="dataForSearch" Grid.Row="0" Grid.Column="1" />
+        <Button Grid.Column="2" Content="Найти" Click="Button_Click_1"/>
         
+        <TextBox x:Name="resultArea" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="3"/>
     </Grid>
 </Window>
