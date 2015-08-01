@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using spravoshnik.Interfaces;
 
 namespace spravoshnik
 {
@@ -20,6 +21,9 @@ namespace spravoshnik
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        private readonly IPersonRepository repository;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,6 +31,10 @@ namespace spravoshnik
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            //todo в зависимости от входных данных вызывать нужный метод
+//            пример использования
+//            dataForSearch.Text; - лежат данные для поиска
+//            repository.GetPersonByNaneAndSurname(name,surname);
 
         }
     }
